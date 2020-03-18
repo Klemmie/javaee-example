@@ -4,15 +4,7 @@
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/maven-plugin/)
-* [Spring for Apache ActiveMQ 5](https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/reference/htmlsingle/#boot-features-activemq)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
-
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Java Message Service API via Apache ActiveMQ Classic.](https://spring.io/guides/gs/messaging-jms/)
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-
+* [Weld CDI for Wildfly](https://weld.cdi-spec.org/)
+* [RESTEasy JAX-RS](https://resteasy.github.io/)
+* [Apache ActiveMQ Artemis](https://activemq.apache.org/components/artemis/documentation/2.0.0/address-model.html)
+* [JUnit5](https://activemq.apache.org/components/artemis/documentation/latest/unit-testing.html)
